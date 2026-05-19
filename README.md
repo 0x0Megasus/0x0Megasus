@@ -7,7 +7,7 @@ I enjoy low-level programming with C, backend architecture, clean UI/UX, and wor
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me :
 
 - 💻 Senior Full Stack Web Developer
 - 📱 React Native Mobile App Developer
@@ -30,7 +30,7 @@ const aboutMe = {
 };
 ```
 
-## 🧰 Tech Stack:
+## 🧰 Tech Stack :
 
 ### 📌 Languages I Speak :
 ![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
