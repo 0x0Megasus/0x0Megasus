@@ -2,10 +2,6 @@
 
 **`Full Stack Web and Mobile Developer && C and Linux Lover`**
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30" alt="wave"/>
-</div>
-
 ```javascript
 const aboutMe = {
   role: "Senior Full Stack Web & Mobile Developer",
