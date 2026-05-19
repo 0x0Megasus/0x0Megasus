@@ -59,9 +59,6 @@ const aboutMe = {
 ![Vercel](https://img.shields.io/badge/Vercel-20232A?style=for-the-badge&logo=vercel&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-20232A?style=for-the-badge&logo=railway&logoColor=white)
 
-
-## 💻 What I'm Currently Coding :
-
 ```python
 while alive:
     code.write(clean=True)
