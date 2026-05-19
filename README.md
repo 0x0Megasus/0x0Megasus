@@ -5,8 +5,6 @@
 Passionate developer focused on building modern, scalable, and performant applications for both web and mobile platforms.  
 I enjoy low-level programming with C, backend architecture, clean UI/UX, and working inside Linux environments.
 
----
-
 ## 🧰 Tech Stack :
 
 ### 📌 Languages I Speak :
