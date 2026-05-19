@@ -7,29 +7,6 @@ I enjoy low-level programming with C, backend architecture, clean UI/UX, and wor
 
 ---
 
-## 🚀 About Me :
-
-- 💻 Senior Full Stack Web Developer
-- 📱 React Native Mobile App Developer
-- ⚡ Backend Development with Node.js & Express
-- 🔥 Firebase Integration & Authentication
-- 🐧 Linux Power User
-- 🧠 Love writing clean, scalable, maintainable code
-- 🛠️ Building modern apps using Vite ecosystem
-- ☁️ Deploying projects with Vercel & Railway
-
----
-
-
-```javascript
-const aboutMe = {
-  role: "Senior Full Stack Web & Mobile Developer",
-  passions: ["Clean Architecture", "Pixel-Perfect UI", "Systems Programming"],
-  currently: "Building scalable apps with React & React Native",
-  funFact: "I debug C code for relaxation 🧘"
-};
-```
-
 ## 🧰 Tech Stack :
 
 ### 📌 Languages I Speak :
